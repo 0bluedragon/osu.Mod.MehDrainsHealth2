@@ -1,6 +1,0 @@
-C:\Users\nverg\source\repos\osu.Mod.MehDrainsHealth2\obj\Debug\net10.0\osu.Mod.MehDrainsHealth2.csproj.AssemblyReference.cache
-C:\Users\nverg\source\repos\osu.Mod.MehDrainsHealth2\obj\Debug\net10.0\osu.Mod.MehDrainsHealth2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nverg\source\repos\osu.Mod.MehDrainsHealth2\obj\Debug\net10.0\Sentry.Attributes.cs
-C:\Users\nverg\source\repos\osu.Mod.MehDrainsHealth2\obj\Debug\net10.0\osu.Mod.MehDrainsHealth2.AssemblyInfoInputs.cache
-C:\Users\nverg\source\repos\osu.Mod.MehDrainsHealth2\obj\Debug\net10.0\osu.Mod.MehDrainsHealth2.AssemblyInfo.cs
-C:\Users\nverg\source\repos\osu.Mod.MehDrainsHealth2\obj\Debug\net10.0\osu.Mod.MehDrainsHealth2.csproj.CoreCompileInputs.cache
